@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Computer Science & Systems.
 - 👯 I’m looking to collaborate on ... projects with my classmates.
 - 🤔 I’m looking for help with ... SQL.
-- 💬 Ask me about ... Toyota.
+- 💬 Ask me about ... anything.
 - 📫 How to reach me: ... @mendoken
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I'm graduating this spring. 
 -->

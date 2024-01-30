@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... SQL.
 - 💬 Ask me about ... anything.
 - 📫 How to reach me: ... @mendoken
-- ⚡ Fun fact: ... I'm graduating this spring. 
+- ⚡ Fun fact: ... I will be graduating this spring!
 -->
